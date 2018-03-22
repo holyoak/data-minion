@@ -1,9 +1,9 @@
 ![](https://github.com/holyoak/cryptominion/blob/master/src/client/assets/logo.svg)
-# Cryptominion
+# data-minion
 
 > collecting crypto price data
 
-###Steps to creating a base dataset
+### Steps to creating a base dataset
 
 - First, check out your api docs
 - Is is a ws or REST?  Build a handler to suit
@@ -17,7 +17,7 @@
 
 
 
-###Eight API starting points
+### Eight API starting points
 
 - Binance: node   - https://www.npmjs.com/package/node-binance-api
 -          python - python-binance.readthedocs.io/en/latest/binance.html
